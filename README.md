@@ -1,0 +1,2 @@
+# OLA_Ride_Booking_Analytics-Business_Intelligence_Solution
+Analyzed 103K+ ride-booking records using SQL, Excel, and Power BI to uncover insights on revenue, cancellations, customer behavior, and driver performance. Built interactive dashboards with 20+ KPIs, identified operational bottlenecks, and generated data-driven recommendations to improve efficiency, customer satisfaction, and revenue growth.
